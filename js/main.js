@@ -22,4 +22,4 @@ if(amoundValidation) {
     console.log('Alisher uhlab jim yuraqo.Senga ');
 }
 
-console.log(result,usersMoney)
+// console.log(result,usersMoney)
